@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Dark-Theme
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Pearl-Default-Theme-Dark
+MetacityTheme=Pearl-Default-Theme-Dark
+IconTheme=Pearl-X-Aqua
+GtkColorScheme=base_color:#404040,fg_color:#DADADA,tooltip_fg_color:#4a4a4a,selected_bg_color:#6aa0bd,selected_fg_color:#FFFFFF,text_color:#D3D3D3,bg_color:#383838,insensitive_bg_color:#3e3e3e,insensitive_fg_color:#7f7f7f,notebook_bg:#404040,dark_sidebar_bg:#353535,tooltip_bg_color:#fbeaa0,link_color:#5294E2,menu_bg:#383838
+CursorTheme=Pearl-Cursor
+ButtonLayout=close,minimize,maximize:menu
+CursorSize=28
