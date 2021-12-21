@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Light-Theme
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Pearl-X-Aqua
+MetacityTheme=Pearl-X-Aqua
+IconTheme=Pearl-X-Aqua
+GtkColorScheme=link_color:#08c
+CursorTheme=Pearl-Cursor
+ButtonLayout=close,minimize,maximize:menu
+CursorSize=28
